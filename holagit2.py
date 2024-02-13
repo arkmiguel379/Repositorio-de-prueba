@@ -1,1 +1,1 @@
-print("Hola Git 2")
+print("Hola Github 2")
